@@ -150,7 +150,6 @@ public class SortingEx {
 			anArray = new int[size];
 			for (int i = 0; i < anArray.length; i++) {
 				anArray[i] = randomFill();
-				// System.out.println(anArray[i]);
 			}
 
 			double startTime = System.nanoTime();
